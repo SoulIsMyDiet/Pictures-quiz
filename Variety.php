@@ -33,4 +33,4 @@ while ($number[3] ==$number[0] || $number[3] == $number[1] || $number[3] == $num
 	}
 	
 }
-header('location:index.php');
+//header('location:index.php');
